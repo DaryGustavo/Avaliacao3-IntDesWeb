@@ -90,7 +90,7 @@ body {
 	text-decoration: none;
 	font-size: 16px;
 	font-weight: 500;
-	color: #d65d5d;
+	color: #712b2b;
 	transition: 0.3s ease;
 	-webkit-transition: 0.3s ease;
 	-moz-transition: 0.3s ease;
@@ -125,7 +125,7 @@ body {
 	font-size: 1em;
 	text-align: end;
 	padding: 5px;
-	color: #d65d5d;
+	color: #712b2b;
 }
 .form-container {
 	display: flex;
@@ -154,12 +154,12 @@ body {
 	border: 2px solid rgba(255, 255, 255, 0.16);
 }
 .input:focus {
-	border: 2px solid #d65d5d;
+	border: 2px solid #712b2b;;
 }
 .search__btn {
 	border: none;
 	cursor: pointer;
-	background-color: #d65d5d;
+	background-color: #712b2b;;
 	border-top-right-radius: 7px;
 	border-bottom-right-radius: 7px;
 	height: 100%;
@@ -293,12 +293,12 @@ footer .logo-size {
 	font-weight: bold;
 	letter-spacing: 5px;
 	text-transform: uppercase;
-	color: #d65d5d;
+	color: #712b2b;
 	transition: all 1000ms;
 	font-size: 15px;
 	position: relative;
 	overflow: hidden;
-	outline: 2px solid #d65d5d;
+	outline: 2px solid #712b2b;;
 	cursor: pointer;
 	margin: 10% 0;
 }
@@ -322,7 +322,7 @@ footer .logo-size {
 	top: 0;
 	width: 0;
 	height: 100%;
-	background-color: #d65d5d;
+	background-color: #712b2b;;
 	transform: skewX(45deg);
 	z-index: -1;
 	transition: width 1000ms;
@@ -361,7 +361,7 @@ footer .logo-size {
 	min-width: 200px;
 	padding: 10px 15px;
 	margin: 15px;
-	border: 1px solid #d65d5d;
+	border: 1px solid #712b2b;;
 	border-radius: 10px;
 	box-shadow: 25px 25px 30px rgba(0, 0, 0, 0.15);
 	-webkit-border-radius: 10px;
@@ -407,7 +407,7 @@ footer .logo-size {
 	font-size: 14px;
 }
 #product-section .product .desc h4 {
-	color: #d65d5d;
+	color: #712b2b;
 	font-size: 24px;
 	bottom: 20px;
 	line-height: 40px;
@@ -428,7 +428,7 @@ footer .logo-size {
 	font-size: 20px;
 	line-height: 40px;
 	position: absolute;
-	border: 1px solid #d65d5d;
+	border: 1px solid #712b2b;;
 	background-color: #fcf4f4;
 	border-radius: 50px;
 	-webkit-border-radius: 50px;
@@ -437,7 +437,7 @@ footer .logo-size {
 	-o-border-radius: 50px;
 	bottom: 20px;
 	right: 10px;
-	color: #d65d5d;
+	color: #712b2b;
 	transition: all 1000ms;
 }
 #product-section .product .fa-cart-shopping:hover {
@@ -449,7 +449,7 @@ footer .logo-size {
 	-moz-transform: scale(1.1);
 	-ms-transform: scale(1.1);
 	-o-transform: scale(1.1);
-	background-color: #d65d5d;
+	background-color: #712b2b;;
 	
 }
 #product-section .product .fa-cart-shopping::before {
@@ -469,7 +469,7 @@ footer .logo-size {
 
 #feature-section .feature {
 	background-color: #fae5e5;
-	border: 1px solid #d65d5d;
+	border: 1px solid #712b2b;;
 	padding: 30px 0px;
 	box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.5);
 	margin: 15px 20px;
@@ -526,7 +526,7 @@ footer .logo-size {
 	padding: 15px 25px;
 	border: unset;
 	border-radius: 15px;
-	color: #d75c68;
+	color: #712b2b;
 	z-index: 1;
 	background: #fae5e5;
 	position: relative;
@@ -549,7 +549,7 @@ footer .logo-size {
 	height: 100%;
 	width: 0;
 	border-radius: 15px;
-	background-color: #d75c68;
+	background-color: #712b2b;
 	z-index: -1;
 	-webkit-box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
 	box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
@@ -565,7 +565,7 @@ footer .logo-size {
 }
 #about {
 	padding: 3% 4%;
-	background-color: #d75c68;
+	background-color: #712b2b;
 	padding-bottom: 80px;
 }
 #about p {
@@ -579,7 +579,7 @@ footer .logo-size {
 
 #contact {
 	padding: 3% 4%;
-	background-color: #d75c68;
+	background-color: #712b2b;
 	padding-bottom: 80px;
 }
 #contact p {
@@ -595,7 +595,7 @@ footer .logo-size {
 }
 #cart {
 	padding: 3% 4%;
-	background-color: #d75c68;
+	background-color: #712b2b;
 }
 
 #cart h1 {
@@ -702,7 +702,7 @@ footer .logo-size {
 
 #account {
 	padding: 3% 4%;
-	background-color: #d75c68;
+	background-color: #712b2b;
 }
 
 .login-container {
@@ -729,12 +729,12 @@ footer .logo-size {
 	font-weight: bold;
 	letter-spacing: 5px;
 	text-transform: uppercase;
-	color: #d65d5d;
+	color: #712b2b;
 	transition: all 1000ms;
 	font-size: 10px;
 	position: relative;
 	overflow: hidden;
-	outline: 2px solid #d65d5d;
+	outline: 2px solid #712b2b;;
 	cursor: pointer;
 	margin: 10% 0;
 	margin-left: 1.2em;
@@ -760,7 +760,7 @@ footer .logo-size {
 	top: 0;
 	width: 0;
 	height: 100%;
-	background-color: #d65d5d;
+	background-color: #712b2b;;
 	transform: skewX(45deg);
 	z-index: -1;
 	transition: width 1000ms;
@@ -775,12 +775,12 @@ footer .logo-size {
 	font-weight: bold;
 	letter-spacing: 5px;
 	text-transform: uppercase;
-	color: #d65d5d;
+	color: #712b2b;
 	transition: all 1000ms;
 	font-size: 10px;
 	position: relative;
 	overflow: hidden;
-	outline: 2px solid #d65d5d;
+	outline: 2px solid #712b2b;;
 	cursor: pointer;
 	margin: 3% 0;
 	/* margin-left: 1.2em; */
@@ -832,12 +832,12 @@ footer .logo-size {
 	font-weight: bold;
 	letter-spacing: 5px;
 	text-transform: uppercase;
-	color: #d65d5d;
+	color: #712b2b;
 	transition: all 1000ms;
 	font-size: 10px;
 	position: relative;
 	overflow: hidden;
-	outline: 2px solid #d65d5d;
+	outline: 2px solid #712b2b;;
 	cursor: pointer;
 	margin: 5% 0;
 	margin-left: 1.2em;
@@ -863,7 +863,7 @@ footer .logo-size {
 	top: 0;
 	width: 0;
 	height: 100%;
-	background-color: #d65d5d;
+	background-color: #712b2b;;
 	transform: skewX(45deg);
 	z-index: -1;
 	transition: width 1000ms;
@@ -877,12 +877,12 @@ footer .logo-size {
 	font-weight: bold;
 	letter-spacing: 5px;
 	text-transform: uppercase;
-	color: #d65d5d;
+	color: #712b2b;
 	transition: all 1000ms;
 	font-size: 10px;
 	position: relative;
 	overflow: hidden;
-	outline: 2px solid #d65d5d;
+	outline: 2px solid #712b2b;;
 	cursor: pointer;
 	margin: 5% 0;
 	margin-left: 2.2em;
